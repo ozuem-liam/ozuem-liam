@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**ozuem-liam/ozuem-liam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Wiliams,
 
 - 🔭 I’m currently working with afri-health.com web application.
 - 🌱 I’m currently learning web3.0
@@ -16,3 +14,5 @@ Here are some ideas to get you started:
   Games: Chess, COD Mobile
   Instruments: Piano, Bass Guitar, and Drums
   Hobbies: Cooking, Traveling, Eating and Exploring new Dishes.
+  
+**  Believe**
