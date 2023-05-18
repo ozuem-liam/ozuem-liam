@@ -2,7 +2,7 @@
 
 My name is Wiliams,
 
-- 🔭 I’m currently working with afri-health.com web application.
+- 🔭 I’m currently working with sterling bank as backend engineer.
 - 🌱 I’m currently learning web3.0
 - 👯 I’m looking to collaborate on making youtube videos on DSA. 🤔
 - 💬 Ask me about javascript
