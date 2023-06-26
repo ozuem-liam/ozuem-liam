@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Wiliams,
+My name is Williams,
 
 - 🔭 I’m currently working with sterling bank as backend engineer.
 - 🌱 I’m currently learning web3.0
